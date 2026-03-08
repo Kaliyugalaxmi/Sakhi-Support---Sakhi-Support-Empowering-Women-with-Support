@@ -1,11 +1,4 @@
 # 🌸 Sakhi Support  
-### Empowering Women Through Schemes, Jobs, and Community Support
-
-![Hackathon](https://img.shields.io/badge/Hackathon-She%20Ships%202026-purple)
-![Impact](https://img.shields.io/badge/Focus-Women%20Empowerment-pink)
-![React](https://img.shields.io/badge/Frontend-React-blue)
-![Node](https://img.shields.io/badge/Backend-Node.js-green)
-![Database](https://img.shields.io/badge/Database-MongoDB-darkgreen)
 
 **Sakhi Support** is a web platform designed to help women easily discover **government welfare schemes, job opportunities, safety helplines, and community support** in one place.
 
