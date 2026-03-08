@@ -94,13 +94,6 @@ Each job listing provides:
 - Eligibility requirements
 - Application information
 
----
-
-## 🧠 Eligibility Checker
-
-Users answer simple guided questions to determine if they qualify for a particular scheme or opportunity.
-
-This makes it easier to **identify relevant benefits without confusion**.
 
 ---
 
@@ -148,7 +141,6 @@ This ensures the platform remains **updated and relevant**.
 ### Frontend
 - React (Vite)
 - JavaScript
-- CSS
 
 ### Backend
 - Node.js
@@ -156,9 +148,6 @@ This ensures the platform remains **updated and relevant**.
 
 ### Database
 - MongoDB
-
-### Deployment
-- Vercel
 
 ---
 
@@ -176,74 +165,11 @@ sakhi-support
 ├── server
 │   ├── models
 │   ├── routes
-│   └── server.js
+│   └── index.js
 │
 ├── .env
 └── README.md
 ```
-
----
-
-# ⚙️ Local Setup
-
-### Clone Repository
-
-```bash
-git clone https://github.com/yourusername/sakhi-support.git
-cd sakhi-support
-```
-
----
-
-### Install Dependencies
-
-```bash
-npm install
-```
-
-Frontend setup:
-
-```bash
-cd client
-npm install
-```
-
----
-
-### Environment Variables
-
-Create a `.env` file:
-
-```
-MONGO_URI=your_mongodb_connection_string
-PORT=5000
-```
-
-⚠️ Do not upload the `.env` file to GitHub.
-
----
-
-### Run the Project
-
-Backend:
-
-```bash
-npm run server
-```
-
-Frontend:
-
-```bash
-npm run dev
-```
-
-The application will run at:
-
-```
-http://localhost:5173
-```
-
----
 
 # 🌍 Future Improvements
 
@@ -268,12 +194,6 @@ By combining **government schemes, job opportunities, helplines, and community s
 
 ---
 
-# 🎥 Demo
-
-Live Project:  
-https://sakhi-support.vercel.app
-
----
 
 # 💜 Built for Women, Built with Purpose
 
